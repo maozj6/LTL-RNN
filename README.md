@@ -85,7 +85,7 @@ python train.py
 
 # Train an LTL-constrained RNN
 python train2.py
-
+```
 
 ---
 
