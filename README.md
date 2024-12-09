@@ -22,7 +22,7 @@ Download the required datasets from the following sources:
   This dataset contains short-term pedestrian trajectories and is used for initial experiments.
 
 - [NCLT Dataset](https://robots.engin.umich.edu/nclt/)  
-  This dataset provides long-term pedestrian trajectories and is used for extended predictions and evaluations.
+  This dataset provides long-term trajectories and is used for extended predictions and evaluations.
 
 Make sure to place the downloaded datasets in the appropriate directories as specified in the scripts or preprocessing instructions.
 
