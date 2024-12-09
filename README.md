@@ -3,6 +3,14 @@
 
 This repository contains scripts for preprocessing datasets, training models, and visualizing results, designed to integrate Linear Temporal Logic (LTL) constraints into a Recurrent Neural Network (RNN) for trajectory prediction tasks.
 
+
+## **Installation**
+
+To install the required dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
+
 ---
 
 ## **Code Overview**
