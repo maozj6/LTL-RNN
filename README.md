@@ -27,6 +27,11 @@ Download the required datasets from the following sources:
 Make sure to place the downloaded datasets in the appropriate directories as specified in the scripts or preprocessing instructions.
 
 
+For the NCLT dataset, convert the CSV files into `.npz` format sequences, ensuring that the resulting `.npz` files contain the following keys:  
+```python
+self.x = self.data['x']
+self.y = self.data['y']
+```
 ## **Code Overview**
 
 ### **Preprocessing and Utilities**
